@@ -65,7 +65,6 @@ class Requirement extends Model
             'req_id' => $req_id,
             'user_id' => $user->name
         ));
-
         return $requirement;
     }
 
