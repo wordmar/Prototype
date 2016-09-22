@@ -4,6 +4,7 @@
 Homestead.yaml
 Homestead.json
 .env
-.idea/vcs.xml
-/.idea/workspace.xml
 .project
+.idea
+storage
+
