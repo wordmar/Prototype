@@ -51,6 +51,10 @@ class Requirement extends Model
     }
 
     /**
+        return $requirements;
+    }
+
+    /**
      * @param  array $dataArr
      * @param $user
      * @return Requirement

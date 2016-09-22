@@ -4,6 +4,14 @@
 Homestead.yaml
 Homestead.json
 .env
+<<<<<<< .mine
 .idea
 storage
 .project
+
+=======
+.project
+.idea
+storage
+
+>>>>>>> .theirs
